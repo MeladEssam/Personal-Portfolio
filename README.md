@@ -25,3 +25,5 @@ Icons: Scalable vector icons from Font Awesome.
 🎨 Modern UI/UX: Features a gradient mesh background, animated status badges, and interactive hover effects.
 
 🔍 SEO Ready: Fully optimized meta tags and Open Graph protocol for professional social media sharing.
+
+Live Demo: https://meladessam.github.io/Personal-Portfolio/
